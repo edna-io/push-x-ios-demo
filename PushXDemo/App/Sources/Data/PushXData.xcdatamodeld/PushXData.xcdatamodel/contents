@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21E230" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Push" representedClassName="PushData" syncable="YES">
+        <attribute name="action" optional="YES" attributeType="String"/>
+        <attribute name="actionTitle" optional="YES" attributeType="String"/>
+        <attribute name="actionType" optional="YES" attributeType="String"/>
+        <attribute name="chlSentAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="complexMessageId" optional="YES" attributeType="String"/>
+        <attribute name="hasFullContent" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="messageId" optional="YES" attributeType="String"/>
+        <attribute name="shortMessage" optional="YES" attributeType="String"/>
+        <attribute name="userInfo" optional="YES" attributeType="Binary"/>
+    </entity>
+    <elements>
+        <element name="Push" positionX="-63" positionY="-18" width="128" height="164"/>
+    </elements>
+</model>
