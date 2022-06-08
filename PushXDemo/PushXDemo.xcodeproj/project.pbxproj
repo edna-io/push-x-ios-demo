@@ -957,7 +957,7 @@
 			repositoryURL = "https://github.com/edna-io/push-x-ios.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.4;
+				minimumVersion = 1.2.5;
 			};
 		};
 		EEE8188D3DFB1D27CC0BB187 /* XCRemoteSwiftPackageReference "push-x-ne-ios" */ = {
@@ -965,7 +965,7 @@
 			repositoryURL = "https://github.com/edna-io/push-x-ne-ios.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.4;
+				minimumVersion = 1.2.5;
 			};
 		};
 		F45F7E54CE7A1B39D778232A /* XCRemoteSwiftPackageReference "push-x-ce-ios" */ = {
@@ -973,7 +973,7 @@
 			repositoryURL = "https://github.com/edna-io/push-x-ce-ios.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.4;
+				minimumVersion = 1.2.5;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
