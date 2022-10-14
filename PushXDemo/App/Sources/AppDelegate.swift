@@ -37,7 +37,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         })
         
         EDNAPushX.setOnPushAction(block: { (action) in
-            Logger.log("[APP] pushX.onPushAction", params: [ "messageId" : action.messageId, "type" : action.actionType.asKey(), "title": action.actionTitle, "action" : action.action])
+            Logger.log("[APP] pushX.onPushAction", params: ["messageId": action.messageId,
+                                                            "type": action.actionType.asKey(),
+                                                            "title": action.actionTitle,
+                                                            "action": action.action,
+                                                            "customParams": action.customParams
+                                                           ])
+            
             PushDataHelper.lastPushChangeAction(action: action)
         })
         
