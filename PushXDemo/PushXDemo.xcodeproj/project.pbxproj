@@ -16,7 +16,6 @@
 		1816FF186AD8F3E2560AE0D0 /* SettingsButtonRowCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5E2E5DE4B5D2BE8097BC13B /* SettingsButtonRowCell.swift */; };
 		2367C87631C8FA28D1A7CA75 /* FileStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F4D3272C905A8BBCA48210 /* FileStore.swift */; };
 		2ABCB2E6679F87D1D7925D7C /* PushXData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0381396896DDE8BD62E1EEDB /* PushXData.xcdatamodeld */; };
-		33C2F21BC0736A0C6E64AA8F /* EDNAPushX in Frameworks */ = {isa = PBXBuildFile; productRef = 8F01185AEA13C5EAC7D3321D /* EDNAPushX */; };
 		3A98CD086ADFAD4D4E6E9631 /* ColorUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = C614B206B82921E52D7EF034 /* ColorUtils.swift */; };
 		3B9A5FB6923035861139BE84 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 01F881DC56C5D26520AFDE1A /* Localizable.strings */; };
 		3CE4DC08321D4E0985F2AD72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF856E1F2F923680C7FA1E7A /* Assets.xcassets */; };
@@ -42,11 +41,11 @@
 		A10CA5262260DFB4C1EF6A1D /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623F5039757235E384573162 /* NotificationService.swift */; };
 		A208026D810306BC0C57BBEC /* SF-Pro-Text-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 270971E5B19970820ED69A36 /* SF-Pro-Text-Regular.otf */; };
 		A50816C196B368374742197C /* SF-Pro-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 00A262ED30B89902C6196E86 /* SF-Pro-Display-Regular.otf */; };
-		A52B4C6A6C4E998A4EA29430 /* EDNAPushXCE in Frameworks */ = {isa = PBXBuildFile; productRef = 4468B926F08775B097CF83A4 /* EDNAPushXCE */; };
 		B354630F7E80BA833907089F /* SettingsCopyInfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97F18DA49AD3953BD4D2D2A8 /* SettingsCopyInfoCell.swift */; };
 		B992D461B3632E2DF1472844 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B4A74B177AF4A7D94B37B55 /* Main.storyboard */; };
 		C1A6D5D9574CB2BB99CB4C4A /* AppConf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E5FF565274C8C4C5B22DB84 /* AppConf.swift */; };
 		C2948D6B3768D147B355EEC7 /* SettingsClientInfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0A65ABA81F613AE8B2D431 /* SettingsClientInfoCell.swift */; };
+		C2E6B703B762DDADDB7BF97E /* Pods_NE.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 944171CEF3EDF8135F8ED790 /* Pods_NE.framework */; };
 		CC909C7E7D4E88EEAA044CF1 /* MessageDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E36A2BC72D71FB664A90E7E /* MessageDetailViewController.swift */; };
 		CD3066E1E3134A1368F953E5 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0EE0C50038FAFC1E5860E5 /* Logger.swift */; };
 		CD79608A8016CC8B27EBD68B /* NotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4AB9B31CE815165A96B9D3D /* NotificationViewController.swift */; };
@@ -62,7 +61,6 @@
 		EE75EC86084D6D0A0EBE59A3 /* SettingsPushXCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B98F1C5CD93214301926CD3 /* SettingsPushXCell.swift */; };
 		F1F867B2662CDC1B5CAA014B /* LoginTypeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739C6AE2BADDE901AA2EE77E /* LoginTypeCell.swift */; };
 		F287917A483A4D29F51CB6B1 /* SettingsLogsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C31D250D831B9B2EBB1282A /* SettingsLogsCell.swift */; };
-		FE6CB5F2890EAD195360F5E0 /* EDNAPushXNE in Frameworks */ = {isa = PBXBuildFile; productRef = 78F8FC8B7CA44FBFF94C8D0B /* EDNAPushXNE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +130,7 @@
 		7E4DE9274344A844ED46DAC4 /* NE.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = NE.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E5FF565274C8C4C5B22DB84 /* AppConf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConf.swift; sourceTree = "<group>"; };
 		91F892CE7B0CB14549D7F3B2 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/MainInterface.strings; sourceTree = "<group>"; };
+		944171CEF3EDF8135F8ED790 /* Pods_NE.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Pods_NE.framework; sourceTree = "<group>"; };
 		95FB5B3B99759B3EF7598443 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		97F18DA49AD3953BD4D2D2A8 /* SettingsCopyInfoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsCopyInfoCell.swift; sourceTree = "<group>"; };
 		9B98F1C5CD93214301926CD3 /* SettingsPushXCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsPushXCell.swift; sourceTree = "<group>"; };
@@ -170,7 +169,6 @@
 			files = (
 				4888DF2EE0116C40A3093587 /* UserNotifications.framework in Frameworks */,
 				15323A3CE400B5DF7496E5B1 /* UserNotificationsUI.framework in Frameworks */,
-				A52B4C6A6C4E998A4EA29430 /* EDNAPushXCE in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,15 +176,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE6CB5F2890EAD195360F5E0 /* EDNAPushXNE in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D342978DC6E040A7162CE0FC /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				33C2F21BC0736A0C6E64AA8F /* EDNAPushX in Frameworks */,
+				C2E6B703B762DDADDB7BF97E /* Pods_NE.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +329,7 @@
 		BF298D05FCA2058E413830E3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				944171CEF3EDF8135F8ED790 /* Pods_NE.framework */,
 				50D3AE65EE7B4A8AD967E9C7 /* UserNotifications.framework */,
 				2AE02345085FDD1EE766AD6D /* UserNotificationsUI.framework */,
 			);
@@ -445,9 +436,6 @@
 			dependencies = (
 			);
 			name = NE;
-			packageProductDependencies = (
-				78F8FC8B7CA44FBFF94C8D0B /* EDNAPushXNE */,
-			);
 			productName = NE;
 			productReference = 7E4DE9274344A844ED46DAC4 /* NE.appex */;
 			productType = "com.apple.product-type.app-extension";
@@ -458,7 +446,6 @@
 			buildPhases = (
 				C7C97C6B38296536A207258B /* Sources */,
 				2EA6C9A8099034D220AA4055 /* Resources */,
-				D342978DC6E040A7162CE0FC /* Frameworks */,
 				A79831BA00870FCFFE1859EC /* Embed App Extensions */,
 			);
 			buildRules = (
@@ -468,9 +455,6 @@
 				1AC9DC8C9803E2377A875D74 /* PBXTargetDependency */,
 			);
 			name = PushXDemo;
-			packageProductDependencies = (
-				8F01185AEA13C5EAC7D3321D /* EDNAPushX */,
-			);
 			productName = PushXDemo;
 			productReference = 4E1D2C1F5D2F033D3FA2186E /* PushXDemo.app */;
 			productType = "com.apple.product-type.application";
@@ -488,9 +472,6 @@
 			dependencies = (
 			);
 			name = NCE;
-			packageProductDependencies = (
-				4468B926F08775B097CF83A4 /* EDNAPushXCE */,
-			);
 			productName = NCE;
 			productReference = D6CCF0AD28E02FC049220AB9 /* NCE.appex */;
 			productType = "com.apple.product-type.app-extension";
@@ -524,11 +505,6 @@
 				ru,
 			);
 			mainGroup = 1CFA62E2C322F676766A81AC;
-			packageReferences = (
-				B9E0806A0EEA211987FE0685 /* XCRemoteSwiftPackageReference "push-x-ios" */,
-				F45F7E54CE7A1B39D778232A /* XCRemoteSwiftPackageReference "push-x-ce-ios" */,
-				EEE8188D3DFB1D27CC0BB187 /* XCRemoteSwiftPackageReference "push-x-ne-ios" */,
-			);
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -857,6 +833,10 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "${inherited}";
 				CODE_SIGN_ENTITLEMENTS = NE/Main/NE.entitlements;
 				DEVELOPMENT_TEAM = LHB9G9WPH7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\".\"",
+				);
 				INFOPLIST_FILE = NE/Main/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -877,6 +857,10 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "${inherited}";
 				CODE_SIGN_ENTITLEMENTS = NE/Main/NE.entitlements;
 				DEVELOPMENT_TEAM = LHB9G9WPH7;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\".\"",
+				);
 				INFOPLIST_FILE = NE/Main/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -950,51 +934,6 @@
 			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		B9E0806A0EEA211987FE0685 /* XCRemoteSwiftPackageReference "push-x-ios" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/edna-io/push-x-ios.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.6;
-			};
-		};
-		EEE8188D3DFB1D27CC0BB187 /* XCRemoteSwiftPackageReference "push-x-ne-ios" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/edna-io/push-x-ne-ios.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.6;
-			};
-		};
-		F45F7E54CE7A1B39D778232A /* XCRemoteSwiftPackageReference "push-x-ce-ios" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/edna-io/push-x-ce-ios.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.2.6;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		4468B926F08775B097CF83A4 /* EDNAPushXCE */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = F45F7E54CE7A1B39D778232A /* XCRemoteSwiftPackageReference "push-x-ce-ios" */;
-			productName = EDNAPushXCE;
-		};
-		78F8FC8B7CA44FBFF94C8D0B /* EDNAPushXNE */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = EEE8188D3DFB1D27CC0BB187 /* XCRemoteSwiftPackageReference "push-x-ne-ios" */;
-			productName = EDNAPushXNE;
-		};
-		8F01185AEA13C5EAC7D3321D /* EDNAPushX */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B9E0806A0EEA211987FE0685 /* XCRemoteSwiftPackageReference "push-x-ios" */;
-			productName = EDNAPushX;
-		};
-/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		0381396896DDE8BD62E1EEDB /* PushXData.xcdatamodeld */ = {
