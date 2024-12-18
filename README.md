@@ -1,13 +1,11 @@
 # Demo project for edna iOS push SDK
 
-Гид по интеграции на русском https://docs.edna.ru/kb/podkljuchenie-pushej-ios/
+Guide: https://docs.edna.io/kb/enabling-ios-push-notifications/
 
-Guide in English https://docs.edna.io/kb/enabling-ios-push-notifications/
-
-https://edna.ru/
+https://edna.io/
 
 По вопросам продаж/Sales:
-sales@edna.ru
+sales@edna.io
 
 Техническая поддержка/Tech support:
-support@edna.ru
+support@edna.io
